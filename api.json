@@ -1,22 +1,22 @@
 {
-   "Updates":{
-      "1":{
-         "updateimage":"https://medline.pl/wp-content/uploads/2013/11/1000.png",
-         "updatepostericon":"https://r.namemc-static.com/skin/face.png?id=feec1cc4fda6e339&scale=4",
-         "updatepostername":"crvnberry",
-         "updatetext":"WE GOT 1000 DOWNLOADS! THANK YOU!!!!"
-      },
-      "2":{
-         "updateimage":"https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg",
-         "updatepostericon":"https://r.namemc-static.com/skin/face.png?id=0791a6978192a6ab&scale=4",
-         "updatepostername":"Fxcilities",
-         "updatetext":"On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join here @ https://amethystclient.xyz/discord"
-      },
-      "3":{
-         "updateimage":"https://wallpaperaccess.com/full/1277538.jpg",
-         "updatepostericon":"https://r.namemc-static.com/skin/face.png?id=feec1cc4fda6e339&scale=4",
-         "updatepostername":"crvnberry",
-         "updatetext":"Visit the Amethsyt Client Tiktok! As with the discord, all suggestions will be considered and likely added. We also post short clips about the client there! https://tiktok.com/@amethystclient"
-      }
-   }
+    "Updates": {
+        "1": {
+            "updateimage": "https://medline.pl/wp-content/uploads/2013/11/1000.png",
+            "updatepostericon": "https://r.namemc-static.com/skin/face.png?id=feec1cc4fda6e339&scale=4",
+            "updatepostername": "crvnberry",
+            "updatetext": "WE GOT 1000 DOWNLOADS! THANK YOU!!!!"
+        },
+        "2": {
+            "updateimage": "https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg",
+            "updatepostericon": "https://r.namemc-static.com/skin/face.png?id=0791a6978192a6ab&scale=4",
+            "updatepostername": "Fxcilities",
+            "updatetext": "On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join here @ https://amethystclient.xyz/discord"
+        },
+        "3": {
+            "updateimage": "https://wallpaperaccess.com/full/1277538.jpg",
+            "updatepostericon": "https://r.namemc-static.com/skin/face.png?id=feec1cc4fda6e339&scale=4",
+            "updatepostername": "crvnberry",
+            "updatetext": "Visit the Amethsyt Client Tiktok! As with the discord, all suggestions will be considered and likely added. We also post short clips about the client there! https://tiktok.com/@amethystclient"
+        }
+    }
 }

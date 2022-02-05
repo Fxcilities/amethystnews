@@ -8,14 +8,12 @@
         "2": {
             "updateimage": "https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg",
             "updatepostername": "Fxcilities",
-            "updatetext": "On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join <a href="https://www.geeksforgeeks.org/html-tutorials/">
-     GeeksforGeeks HTML Tutorial
-  </a>
+            "updatetext": "On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join <a href='#' onclick='discordopen(); return false;'>here</a>"
         },
         "3": {
             "updateimage": "https://wallpaperaccess.com/full/1277538.jpg",
             "updatepostername": "crvnberry",
-            "updatetext": "Visit the Amethsyt Client Tiktok! As with the discord, all suggestions will be considered and likely added. We also post short clips about the client <a href='https://tiktok.com/@amethystclient'>there!</a>"
+            "updatetext": "Visit the Amethsyt Client Tiktok! As with the discord, all suggestions will be considered and likely added. We also post short clips about the client <a href='#' onclick='tiktokopen(); return false;'>there!</a>"
         }
     }
 }

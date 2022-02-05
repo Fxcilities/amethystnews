@@ -8,7 +8,7 @@
         "2": {
             "updateimage": "https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg",
             "updatepostername": "Fxcilities",
-            "updatetext": "On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join <a style='text-decoration: none;' href='#' onclick='discordopen(); return false;'>here</a>"
+            "updatetext": "On the Amethyst Client Discord, we listen to all suggestions, and add every requested mod suggestion. Join <a style='text-decoration: none;' href='#' onclick='discordopen(); return false; onError='this.style.display = 'none';''>here</a>"
         },
         "3": {
             "updateimage": "https://wallpaperaccess.com/full/1277538.jpg",
